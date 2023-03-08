@@ -4,4 +4,4 @@ Custom Python script to merge exported Notion HTML into a current websites HTML 
 
 #Usage:
 
-  pytohn3 notion2web.py
+    python3 notion2web.py
