@@ -2,5 +2,6 @@
 
 Custom Python script to merge exported Notion HTML into a current websites HTML formatting.
 
-#Usage
-pytohn3 notion2web.py
+#Usage:
+
+  pytohn3 notion2web.py
